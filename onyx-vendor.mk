@@ -308,16 +308,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/onyx/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/oneplus/onyx/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-    vendor/oneplus/onyx/proprietary/vendor/etc/diracmobile.config:system/vendor/etc/diracmobile.config \
-    vendor/oneplus/onyx/proprietary/vendor/lib/libDiracAPI_SHARED.so:system/vendor/lib/libDiracAPI_SHARED.so \
->>>>>>> parent of 9e30eac... onyx: add dirac blobs
-    vendor/oneplus/onyx/proprietary/vendor/lib/soundfx/libdirac.so:system/vendor/lib/soundfx/libdirac.so \
-=======
 
->>>>>>> parent of ef82a08... onyx: Add dirac blobs
 PRODUCT_PACKAGES += \
     libril \
     libwpa_qmi_eap_proxy \
